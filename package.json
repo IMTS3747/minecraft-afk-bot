@@ -1,0 +1,19 @@
+{
+  "name": "afkbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MannuG",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.3",
+    "fs": "0.0.1-security",
+    "minecraft-protocol": "^1.58.0",
+    "mineflayer": "^4.30.0",
+    "mineflayer-blockfinder": "0.0.7",
+    "mineflayer-cmd": "^1.1.3"
+  }
+}
