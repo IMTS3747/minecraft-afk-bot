@@ -1,19 +1,14 @@
 {
-  "name": "afkbot",
+  "name": "-",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "An AFK bot that moves on-site to keep Aternos servers open 24/7. Not only for Aternos but also applies for different services.",
+  "main": "bot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node bot.js"
   },
-  "author": "MannuG",
-  "license": "ISC",
+  "author": "IceLater",
+  "license": "MIT",
   "dependencies": {
-    "config": "^3.3.3",
-    "fs": "0.0.1-security",
-    "minecraft-protocol": "^1.58.0",
-    "mineflayer": "^4.30.0",
-    "mineflayer-blockfinder": "0.0.7",
-    "mineflayer-cmd": "^1.1.3"
+    "mineflayer": "^4.29.0"
   }
 }

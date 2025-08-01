@@ -1,7 +1,6 @@
-
 {
-	"ip":"TSFC.aternos.me", 
-	"port": "39182",
-	"name": "afkbot",
-	"auto-night-skip":"false" 
+  "serverHost": "TSFC.aternos.me",
+  "serverPort": 39182,
+  "botUsername": "AFKBot",
+  "botChunk": 1
 }
